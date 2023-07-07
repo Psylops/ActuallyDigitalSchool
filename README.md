@@ -12,7 +12,7 @@ this repo contains all the IOT code and electronic schematics for Project Sydney
 * And much more.
 
 ## Where did the idea come from?
-This project was heavily inspired by GLaDOS from the Portal series.
+This project was heavily inspired by GLaDOS from the Portal series. (Without the neurotoxin and the turrets)
 
 ## What software does this project use?
 It uses linux as the main operating system and as its base. For the UI it uses the QT Framework and for the IO it uses the GPIO pins and USB ports.
